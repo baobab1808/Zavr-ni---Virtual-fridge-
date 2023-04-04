@@ -1,0 +1,2 @@
+<img src="/storage/cover_images/hladnjak.png" alt="logo" style="width:64px">
+<?php /**PATH /home/vagrant/Projects_Laravel/Zavrsni2/resources/views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>

@@ -1,0 +1,2 @@
+<input type="checkbox" <?php echo $attributes->merge(['class' => 'custom-control-input', 'style' => 'border-radius:25px; border: 2px solid black;']); ?>>
+<?php /**PATH /home/vagrant/Projects_Laravel/Zavrsni2/resources/views/vendor/jetstream/components/checkbox.blade.php ENDPATH**/ ?>
